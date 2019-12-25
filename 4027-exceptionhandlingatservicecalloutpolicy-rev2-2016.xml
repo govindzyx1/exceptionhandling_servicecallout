@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="4027-exceptionhandlingatservicecalloutpolicy-rev2-2016">
+    <Basepaths>/exceptionhandlingatservicecalloutpolicy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1563347365504</CreatedAt>
+    <CreatedBy>verma.govind92@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>ExceptionHandlingatServicecallOutpolicy</DisplayName>
+    <LastModifiedAt>1563347365504</LastModifiedAt>
+    <LastModifiedBy>verma.govind92@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:b2228a5354d92f3e9f4ec1808c9301da34a9b194fb462279e042d1cbec9008d90da2d429523cde0ec76c1c7e73ae76fa95ec64f3c181d887fdcdeb320466e349</ManifestVersion>
+    <Policies>
+        <Policy>Raise-Fault-1</Policy>
+        <Policy>Service-Callout-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
